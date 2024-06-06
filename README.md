@@ -1,19 +1,19 @@
 Installation (One-time process):
 
-Download MPT Updater's latest release: https://github.com/smarterskipper/MPT-UPDATER/releases
+1) Download MPT Updater's latest release: https://github.com/smarterskipper/MPT-UPDATER/releases
 
-Drag and drop MPT.Updater.exe into main-fika-installation/user/mods
+2) Drag and drop MPT.Updater.exe into main-fika-installation/user/mods
 
-Run MPT.Updater.exe
+3) Run MPT.Updater.exe
 
-Select 1. Configure Source URL (files to be downloaded)
+4) Select 1. Configure Source URL (files to be downloaded)
 
-Select 1. Enter GitHub Repo Link-(DL time almost instant)
+5) Select 1. Enter GitHub Repo Link-(DL time almost instant)
   
-Copy and paste and enter https://github.com/donnyfly/BasementBuddies-ProjectFika.git
+6) Copy and paste and enter https://github.com/donnyfly/BasementBuddies-ProjectFika.git
 
-Select 2. Update MPT Client
+7) Select 2. Update MPT Client
 
-Select Y
+8) Select Y
 
 It will instantly update any new changes to the BepInEx folder instantly
