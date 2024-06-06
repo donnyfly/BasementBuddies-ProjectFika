@@ -19,7 +19,8 @@ BepInEx/*
 # BepInEx config
 !BepInEx/config
 
-# BepInEx config ignore list
+# BepInEx patchers
+!BepInEx/patchers
 
 # mod ignore list
 
@@ -32,7 +33,3 @@ User/*
 !User
 User/*
 !User/Profiles
-
-#Include .git
-!.git
-.git/*
