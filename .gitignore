@@ -24,11 +24,6 @@ BepInEx/*
 
 # mod ignore list
 
-#Include User/Mods/
-!User
-User/*
-!User/Mods
-
 #Include User/Profiles
 !User
 User/*
